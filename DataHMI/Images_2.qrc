@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gach_ngang_icon.png</file>
+        <file>cloud_icon.png</file>
+        <file>user_offline.png</file>
+        <file>edit_hovered@2x.png</file>
+        <file>server.png</file>
+        <file>server_offline.png</file>
+        <file>user.png</file>
+        <file>simple_arrow_h_right.png</file>
+        <file>back.png</file>
+        <file>main_menu.png</file>
+        <file>search_selected.png</file>
+    </qresource>
+</RCC>

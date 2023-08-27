@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/QML_RESOURCES">
+        <file>Qml/Popups/Popup_A.qml</file>
+        <file>Qml/Popups/Popup_B.qml</file>
+        <file>Qml/Screens/SCREEN_A.qml</file>
+        <file>Qml/Screens/SCREEN_B.qml</file>
+        <file>Qml/Screens/SCREEN_LOGIN_NX_CLOUD.qml</file>
+        <file>Qml/Screens/data_server.qml</file>
+        <file>Qml/Popups/Popup_edit_server.qml</file>
+        <file>Qml/Screens/data_cam.qml</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
